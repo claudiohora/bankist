@@ -5,9 +5,9 @@ Login to an account and play around by transfering money between accounts, reque
 
 Accounts:
 
-Jonas Schmedtmann
-Username: js
-Pin: 1111
+Jonas Schmedtmann  
+Username: js  
+Pin: 1111  
 
 Jessica Davis
 Username: jd
