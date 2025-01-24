@@ -9,14 +9,14 @@ Jonas Schmedtmann
 Username: js  
 Pin: 1111  
 
-Jessica Davis
-Username: jd
-Pin: 2222
+Jessica Davis  
+Username: jd  
+Pin: 2222  
 
-Steven Thomas Williams
-Username: stw
-Pin: 3333
+Steven Thomas Williams  
+Username: stw  
+Pin: 3333  
 
-Sarah Smith
-Username: ss
+Sarah Smith  
+Username: ss  
 Pin: 4444
