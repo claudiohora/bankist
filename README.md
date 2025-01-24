@@ -5,7 +5,7 @@ Login to an account and play around by transfering money between accounts, reque
 
 Accounts:
 
-Jonas Schmedtmann
+Jonas Schmedtmann\n
 Username: js
 Pin: 1111
 
